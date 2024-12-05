@@ -6,3 +6,4 @@ part 'product_card.dart';
 part 'product_title.dart';
 part 'chat_card.dart';
 part 'chat_bubble.dart';
+part 'wish_list_card.dart';
